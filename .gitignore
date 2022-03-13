@@ -1,0 +1,6 @@
+
+# Build Directory #
+######################
+build/
+node_modules/
+.vscode
