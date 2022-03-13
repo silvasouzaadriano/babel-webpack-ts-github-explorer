@@ -1,5 +1,5 @@
-export function App() {
-  throw new Error('There is an error!');
+import './styles/global.css';
 
+export function App() {
   return <h1>Hello World</h1>;
 }
